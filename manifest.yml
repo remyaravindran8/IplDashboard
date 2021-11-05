@@ -1,0 +1,7 @@
+---
+applications:
+- name: ipl_dashboard
+  memory: 2048M
+  instances: 1
+  path: target/ipl-dashboard-0.0.1-SNAPSHOT.jar
+  buildpack: java_buildpack
