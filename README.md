@@ -9,7 +9,6 @@ Check out the playlist below to see this app built end-to-end from scratch.
 Full Playlist:
 https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0
 
-
 ## Screenshots
 
 ### Team Page
